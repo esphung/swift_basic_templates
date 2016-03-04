@@ -1,1 +1,3 @@
-# swift_basic_templates
+# Swift Templates
+### Stand-alone Examples
+    - SalesTaxOrder.swift -- [Fenced Code Blocks][]
